@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @YoussefGamer493
 - 👀 I’m interested in reading books and learning programming
 - 🌱 I’m currently learning Python, HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on many projects but I'm not sure what yet.
+- 💞️ I’m looking to collaborate on many projects but I'm not sure what yet
 - 📫 How to reach me: mohammedyoussef818@gmail.com
-- 😄 Pronouns: he, his
+- 😄 Pronouns: he, him
 - ⚡ Fun fact: I love philosophy of science!
 
 <!---
